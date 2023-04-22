@@ -1,0 +1,32 @@
+{
+  "name": "desired-logo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhmerir/desired-logo-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhmerir/desired-logo-generator/issues"
+  },
+  "homepage": "https://github.com/Bhmerir/desired-logo-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+  ,
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
