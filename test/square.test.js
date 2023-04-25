@@ -5,7 +5,7 @@ describe("Square", () => {
         it('should take a color and return a svg text for making a square with that color', () => {
             
             const square = new Square("pink");
-            const result = `<rect x="60" y="10" width="180" height="180" fill="pink"/>`;
+            const result = `<rect x="50" y="0" width="200" height="200" fill="pink"/>`;
 
             expect(square.render()).toEqual(result);
         });
