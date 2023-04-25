@@ -74,15 +74,19 @@ This is a link to a video which instructs the users on how to work with software
 
 <br>
 
-Here is an example of a designed logo by this project:
+Here is the examples of the designed logos by this project:
 
-![A Designed Logo](logo.png)
+![A Designed Circle Logo](./images/logo-circle.png)
+
+![A Designed Square Logo](./images/logo-square.png)
+
+![A Designed Triangle Logo](./images/logo-triangle.png)
 
 <br>
 
-Here is the link of some designed logo:
+Here is the link of these example logos:
 
-[Click the link here](https://github.com/Bhmerir/)
+[Click the link here](https://github.com/Bhmerir/desired-logo-generator/tree/main/examples)
 
 <br>
 
