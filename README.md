@@ -54,7 +54,7 @@ In order to achieve this goal, I took the following steps:
 
 ---
 
-In order to install this application, please go to my repository ([Link Here](https://github.com/Bhmerir/desired-logo-generator)) and clone it down. Then navigate to the root folder and write the below command in terminal :
+In order to install this application, write the below command in terminal :
 
 npm i
 
@@ -70,7 +70,7 @@ node index.js
 
 This is a link to a video which instructs the users on how to work with software : 
 
-[Walk-through Video Link]()
+[Walk-through Video Link](https://drive.google.com/file/d/11-d7QSgKJo4jceHGlzjDORt8B9_nmhEx/view)
 
 <br>
 
